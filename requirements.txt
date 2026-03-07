@@ -1,0 +1,10 @@
+ipykernel
+pandas
+
+# transformers
+transformers
+datasets
+evaluate
+accelerate
+
+scikit-learn
