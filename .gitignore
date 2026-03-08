@@ -1,3 +1,7 @@
 
 venv/
 .env
+
+# fine-tuning checkpoints and results
+results/
+__pycache__/
